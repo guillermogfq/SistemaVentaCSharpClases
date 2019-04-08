@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{42748074-44EE-487E-A920-42D619A7A932}|Default">
+  <MonoDevelop.Ide.ItemProperties.SistemaVenta FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SistemaVenta/Vendedor.cs">
+    <Files>
+      <File FileName="SistemaVenta/Sistema.cs" Line="9" Column="23" />
+      <File FileName="SistemaVenta/Usuario.cs" Line="25" Column="9" />
+      <File FileName="SistemaVenta/Administrador.cs" Line="6" Column="29" />
+      <File FileName="SistemaVenta/Cliente.cs" Line="1" Column="1" />
+      <File FileName="SistemaVenta/Vendedor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SistemaVenta" expanded="True">
+            <Node name="SistemaVenta" expanded="True">
+              <Node name="Vendedor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
