@@ -29,13 +29,13 @@ namespace SistemaVenta
             switch (priv)
             {
                 case "ADMINISTRADOR":
-                    response = (this is Administrador) ? true : false;
+                    response = (this is Administrador);
                     break;
                 case "CLIENTE":
-                    response = (this is Cliente) ? true : false;
+                    response = (this is Cliente);
                     break;
                 case "VENDEDOR":
-                    response = (this is Vendedor) ? true : false;
+                    response = (this is Vendedor);
                     break;
                 default:
                     response = false;
